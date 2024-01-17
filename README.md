@@ -1,2 +1,2 @@
-# readme
-My personal repository
+基本信息👤
+一个普通的全栈开发小白，会PHP，Java，C#。励志进大厂🚀🚀🚀
